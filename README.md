@@ -3,6 +3,6 @@
 *ਨੋਟ - ਇਹ ਸਿਰਫ ਐਂਡਰਾਇਡ ਡਿਵਾਈਸਾਂ 'ਤੇ ਚੱਲੇਗਾ
 
 
-ਸਿਰਜਣਹਾਰ :-
+ਸਿਰਜਣਹਾਰ -
 Vicky Kaushik ਅਤੇ @arshackerofficial 
 `https://linktr.ee/arshackerofficial`
